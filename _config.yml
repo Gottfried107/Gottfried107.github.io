@@ -30,7 +30,7 @@ twitter_username: Andrea27172
 github_username:  Gottfried107
 
 # Build settings
-theme: tactile
+theme: minima
 plugins:
   - jekyll-feed
 
