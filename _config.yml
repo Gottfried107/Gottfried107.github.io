@@ -31,7 +31,7 @@ github_username:  Gottfried107
 
 # Build settings
 markdown: kramdown
-theme: cayman
+theme: jekyll-cayman-theme
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
